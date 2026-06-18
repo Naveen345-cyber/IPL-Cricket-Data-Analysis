@@ -1,0 +1,301 @@
+match_id,season,venue,team1,team2,toss_winner,toss_decision,team1_score,team2_score,winner,win_by_runs,win_by_wickets,player_of_match
+1,2020,Sawai Mansingh Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,204,184,Chennai Super Kings,0,3,Chennai_Player5
+2,2020,M. Chinnaswamy Stadium,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,151,158,Royal Challengers Bengaluru,9,0,Royal_Player4
+3,2020,Wankhede Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,160,167,Rajasthan Royals,0,6,Rajasthan_Player10
+4,2020,Arun Jaitley Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,159,174,Rajasthan Royals,7,0,Rajasthan_Player6
+5,2020,Eden Gardens,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,169,173,Sunrisers Hyderabad,0,6,Sunrisers_Player8
+6,2020,Eden Gardens,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,231,173,Mumbai Indians,0,4,Mumbai_Player7
+7,2020,M. Chinnaswamy Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,159,149,Punjab Kings,0,5,Punjab_Player2
+8,2020,M. Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,189,141,Kolkata Knight Riders,0,6,Kolkata_Player11
+9,2020,Sawai Mansingh Stadium,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,167,115,Delhi Capitals,5,0,Delhi_Player11
+10,2020,M. A. Chidambaram Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,187,173,Mumbai Indians,4,0,Mumbai_Player11
+11,2020,Wankhede Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,143,152,Punjab Kings,0,8,Punjab_Player10
+12,2020,Wankhede Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,161,164,Chennai Super Kings,0,1,Chennai_Player1
+13,2020,Narendra Modi Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,160,172,Punjab Kings,0,5,Punjab_Player7
+14,2020,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,164,179,Sunrisers Hyderabad,0,9,Sunrisers_Player1
+15,2020,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,181,134,Chennai Super Kings,0,3,Chennai_Player2
+16,2020,Sawai Mansingh Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,203,185,Chennai Super Kings,16,0,Chennai_Player12
+17,2020,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,134,197,Royal Challengers Bengaluru,43,0,Royal_Player8
+18,2020,Eden Gardens,Delhi Capitals,Punjab Kings,Punjab Kings,bat,143,172,Delhi Capitals,0,3,Delhi_Player2
+19,2020,Wankhede Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,184,196,Sunrisers Hyderabad,21,0,Sunrisers_Player1
+20,2020,Narendra Modi Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,186,159,Mumbai Indians,31,0,Mumbai_Player1
+21,2020,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,bat,138,177,Chennai Super Kings,61,0,Chennai_Player5
+22,2020,Narendra Modi Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,141,150,Chennai Super Kings,0,1,Chennai_Player10
+23,2020,M. A. Chidambaram Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,158,132,Delhi Capitals,0,3,Delhi_Player10
+24,2020,M. A. Chidambaram Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,181,129,Kolkata Knight Riders,0,3,Kolkata_Player3
+25,2020,Narendra Modi Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,161,120,Mumbai Indians,1,0,Mumbai_Player4
+26,2020,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,173,163,Sunrisers Hyderabad,4,0,Sunrisers_Player3
+27,2020,M. Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,177,204,Mumbai Indians,0,4,Mumbai_Player10
+28,2020,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,157,159,Royal Challengers Bengaluru,0,5,Royal_Player7
+29,2020,M. A. Chidambaram Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,179,156,Mumbai Indians,0,3,Mumbai_Player1
+30,2020,Rajiv Gandhi Intl Stadium,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,158,133,Delhi Capitals,0,8,Delhi_Player2
+31,2020,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,198,159,Mumbai Indians,56,0,Mumbai_Player8
+32,2020,M. Chinnaswamy Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,166,175,Punjab Kings,4,0,Punjab_Player12
+33,2020,Sawai Mansingh Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,162,203,Kolkata Knight Riders,0,3,Kolkata_Player3
+34,2020,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,bat,176,163,Punjab Kings,0,8,Punjab_Player3
+35,2020,Rajiv Gandhi Intl Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,118,159,Delhi Capitals,28,0,Delhi_Player9
+36,2020,Arun Jaitley Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,192,154,Royal Challengers Bengaluru,22,0,Royal_Player4
+37,2020,M. Chinnaswamy Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,189,180,Kolkata Knight Riders,0,6,Kolkata_Player10
+38,2020,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,167,167,Kolkata Knight Riders,11,0,Kolkata_Player8
+39,2020,Arun Jaitley Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,191,170,Delhi Capitals,5,0,Delhi_Player7
+40,2020,Arun Jaitley Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,186,161,Sunrisers Hyderabad,0,4,Sunrisers_Player12
+41,2020,Wankhede Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,164,177,Rajasthan Royals,0,5,Rajasthan_Player1
+42,2020,Arun Jaitley Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,158,162,Rajasthan Royals,50,0,Rajasthan_Player4
+43,2020,Wankhede Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,200,147,Delhi Capitals,63,0,Delhi_Player8
+44,2020,Eden Gardens,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,146,143,Royal Challengers Bengaluru,0,4,Royal_Player1
+45,2020,Narendra Modi Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,field,123,131,Royal Challengers Bengaluru,40,0,Royal_Player5
+46,2020,M. Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,210,193,Delhi Capitals,1,0,Delhi_Player9
+47,2020,Eden Gardens,Punjab Kings,Chennai Super Kings,Punjab Kings,field,155,172,Chennai Super Kings,25,0,Chennai_Player10
+48,2020,Wankhede Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,169,173,Rajasthan Royals,1,0,Rajasthan_Player8
+49,2020,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,158,216,Royal Challengers Bengaluru,10,0,Royal_Player7
+50,2020,Narendra Modi Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,208,191,Punjab Kings,0,1,Punjab_Player11
+51,2020,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,189,173,Delhi Capitals,3,0,Delhi_Player8
+52,2020,Narendra Modi Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,174,130,Rajasthan Royals,0,1,Rajasthan_Player11
+53,2020,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,215,151,Chennai Super Kings,0,3,Chennai_Player5
+54,2020,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,162,166,Royal Challengers Bengaluru,19,0,Royal_Player8
+55,2020,Wankhede Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,151,134,Kolkata Knight Riders,0,1,Kolkata_Player8
+56,2020,M. Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,199,156,Punjab Kings,0,6,Punjab_Player9
+57,2020,Sawai Mansingh Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,207,187,Punjab Kings,13,0,Punjab_Player4
+58,2020,Wankhede Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,188,212,Delhi Capitals,0,5,Delhi_Player1
+59,2020,Narendra Modi Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,168,102,Rajasthan Royals,2,0,Rajasthan_Player2
+60,2020,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,182,178,Mumbai Indians,0,5,Mumbai_Player8
+61,2021,Narendra Modi Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,124,166,Rajasthan Royals,0,1,Rajasthan_Player5
+62,2021,Narendra Modi Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,184,214,Mumbai Indians,0,8,Mumbai_Player8
+63,2021,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,120,139,Royal Challengers Bengaluru,35,0,Royal_Player12
+64,2021,M. Chinnaswamy Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,179,177,Rajasthan Royals,32,0,Rajasthan_Player3
+65,2021,Narendra Modi Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,207,185,Mumbai Indians,0,6,Mumbai_Player6
+66,2021,Sawai Mansingh Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,172,170,Royal Challengers Bengaluru,0,6,Royal_Player6
+67,2021,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,169,171,Delhi Capitals,0,2,Delhi_Player7
+68,2021,M. A. Chidambaram Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,144,108,Royal Challengers Bengaluru,0,6,Royal_Player4
+69,2021,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,199,190,Kolkata Knight Riders,0,3,Kolkata_Player11
+70,2021,M. A. Chidambaram Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,133,158,Mumbai Indians,17,0,Mumbai_Player12
+71,2021,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,154,149,Chennai Super Kings,0,4,Chennai_Player7
+72,2021,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,180,149,Rajasthan Royals,2,0,Rajasthan_Player4
+73,2021,M. A. Chidambaram Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,158,127,Kolkata Knight Riders,0,4,Kolkata_Player6
+74,2021,M. A. Chidambaram Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,132,176,Punjab Kings,0,5,Punjab_Player4
+75,2021,Wankhede Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,145,181,Royal Challengers Bengaluru,4,0,Royal_Player1
+76,2021,M. Chinnaswamy Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,126,234,Rajasthan Royals,0,4,Rajasthan_Player8
+77,2021,M. A. Chidambaram Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,170,158,Kolkata Knight Riders,0,7,Kolkata_Player3
+78,2021,Sawai Mansingh Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,134,182,Mumbai Indians,0,6,Mumbai_Player8
+79,2021,Narendra Modi Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,141,170,Rajasthan Royals,37,0,Rajasthan_Player3
+80,2021,Arun Jaitley Stadium,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,147,153,Punjab Kings,0,7,Punjab_Player4
+81,2021,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,156,171,Royal Challengers Bengaluru,80,0,Royal_Player7
+82,2021,Rajiv Gandhi Intl Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,149,154,Delhi Capitals,80,0,Delhi_Player10
+83,2021,Rajiv Gandhi Intl Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,146,164,Mumbai Indians,0,8,Mumbai_Player5
+84,2021,M. Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,164,162,Sunrisers Hyderabad,36,0,Sunrisers_Player5
+85,2021,Wankhede Stadium,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,222,159,Royal Challengers Bengaluru,25,0,Royal_Player8
+86,2021,Eden Gardens,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,195,150,Rajasthan Royals,0,5,Rajasthan_Player11
+87,2021,Rajiv Gandhi Intl Stadium,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,184,205,Delhi Capitals,0,6,Delhi_Player1
+88,2021,Eden Gardens,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,150,182,Punjab Kings,25,0,Punjab_Player6
+89,2021,M. A. Chidambaram Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,197,185,Punjab Kings,0,5,Punjab_Player5
+90,2021,M. A. Chidambaram Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,153,187,Sunrisers Hyderabad,1,0,Sunrisers_Player8
+91,2021,M. Chinnaswamy Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,201,117,Punjab Kings,15,0,Punjab_Player6
+92,2021,Eden Gardens,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,171,164,Punjab Kings,0,4,Punjab_Player3
+93,2021,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,135,187,Sunrisers Hyderabad,29,0,Sunrisers_Player9
+94,2021,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,172,139,Royal Challengers Bengaluru,0,2,Royal_Player9
+95,2021,Rajiv Gandhi Intl Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,160,144,Kolkata Knight Riders,57,0,Kolkata_Player11
+96,2021,Eden Gardens,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,172,226,Rajasthan Royals,0,3,Rajasthan_Player1
+97,2021,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,150,180,Rajasthan Royals,0,9,Rajasthan_Player3
+98,2021,M. Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,108,143,Rajasthan Royals,0,3,Rajasthan_Player2
+99,2021,M. A. Chidambaram Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,164,166,Sunrisers Hyderabad,2,0,Sunrisers_Player12
+100,2021,Narendra Modi Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,field,149,211,Royal Challengers Bengaluru,0,6,Royal_Player1
+101,2021,Wankhede Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,191,194,Chennai Super Kings,27,0,Chennai_Player7
+102,2021,Sawai Mansingh Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,195,144,Punjab Kings,0,5,Punjab_Player12
+103,2021,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,175,155,Sunrisers Hyderabad,0,3,Sunrisers_Player9
+104,2021,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,153,169,Mumbai Indians,0,4,Mumbai_Player10
+105,2021,M. A. Chidambaram Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,169,174,Delhi Capitals,0,3,Delhi_Player11
+106,2021,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,167,194,Sunrisers Hyderabad,7,0,Sunrisers_Player2
+107,2021,Narendra Modi Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,175,171,Mumbai Indians,66,0,Mumbai_Player3
+108,2021,Narendra Modi Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,173,157,Rajasthan Royals,16,0,Rajasthan_Player12
+109,2021,Rajiv Gandhi Intl Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,155,165,Rajasthan Royals,6,0,Rajasthan_Player8
+110,2021,Narendra Modi Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,129,180,Mumbai Indians,0,3,Mumbai_Player6
+111,2021,Arun Jaitley Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,153,160,Sunrisers Hyderabad,0,3,Sunrisers_Player6
+112,2021,Rajiv Gandhi Intl Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,158,154,Kolkata Knight Riders,3,0,Kolkata_Player6
+113,2021,Wankhede Stadium,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,153,191,Royal Challengers Bengaluru,0,6,Royal_Player10
+114,2021,Narendra Modi Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,178,166,Sunrisers Hyderabad,40,0,Sunrisers_Player2
+115,2021,Eden Gardens,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,148,160,Chennai Super Kings,14,0,Chennai_Player10
+116,2021,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,197,178,Sunrisers Hyderabad,13,0,Sunrisers_Player2
+117,2021,M. Chinnaswamy Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,150,152,Rajasthan Royals,0,5,Rajasthan_Player1
+118,2021,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,186,184,Punjab Kings,0,6,Punjab_Player9
+119,2021,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,238,181,Royal Challengers Bengaluru,4,0,Royal_Player2
+120,2021,M. A. Chidambaram Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,field,125,99,Punjab Kings,0,5,Punjab_Player9
+121,2022,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,171,147,Mumbai Indians,0,7,Mumbai_Player5
+122,2022,Sawai Mansingh Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,157,117,Chennai Super Kings,0,3,Chennai_Player12
+123,2022,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,186,195,Chennai Super Kings,0,5,Chennai_Player12
+124,2022,M. A. Chidambaram Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,175,183,Delhi Capitals,0,5,Delhi_Player7
+125,2022,Wankhede Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,168,176,Chennai Super Kings,12,0,Chennai_Player11
+126,2022,Eden Gardens,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,146,177,Mumbai Indians,0,3,Mumbai_Player6
+127,2022,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,177,225,Kolkata Knight Riders,16,0,Kolkata_Player12
+128,2022,Sawai Mansingh Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,163,185,Sunrisers Hyderabad,0,8,Sunrisers_Player2
+129,2022,Arun Jaitley Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,bat,149,156,Royal Challengers Bengaluru,28,0,Royal_Player4
+130,2022,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,128,142,Rajasthan Royals,7,0,Rajasthan_Player1
+131,2022,Wankhede Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,157,164,Punjab Kings,3,0,Punjab_Player10
+132,2022,Rajiv Gandhi Intl Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,130,123,Kolkata Knight Riders,15,0,Kolkata_Player11
+133,2022,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,158,174,Delhi Capitals,1,0,Delhi_Player5
+134,2022,Rajiv Gandhi Intl Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,189,149,Kolkata Knight Riders,0,6,Kolkata_Player2
+135,2022,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,field,125,167,Punjab Kings,2,0,Punjab_Player10
+136,2022,Narendra Modi Stadium,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,field,131,139,Royal Challengers Bengaluru,0,5,Royal_Player6
+137,2022,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,bat,183,158,Rajasthan Royals,16,0,Rajasthan_Player11
+138,2022,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,field,158,136,Punjab Kings,0,6,Punjab_Player1
+139,2022,Sawai Mansingh Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,155,183,Chennai Super Kings,0,2,Chennai_Player9
+140,2022,Arun Jaitley Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,174,195,Mumbai Indians,0,5,Mumbai_Player4
+141,2022,Wankhede Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,171,139,Rajasthan Royals,22,0,Rajasthan_Player12
+142,2022,Arun Jaitley Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,216,182,Kolkata Knight Riders,12,0,Kolkata_Player8
+143,2022,Sawai Mansingh Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,213,142,Royal Challengers Bengaluru,0,5,Royal_Player12
+144,2022,Sawai Mansingh Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,146,184,Delhi Capitals,1,0,Delhi_Player6
+145,2022,M. A. Chidambaram Stadium,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,bat,138,142,Royal Challengers Bengaluru,0,1,Royal_Player4
+146,2022,M. Chinnaswamy Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,177,167,Delhi Capitals,0,4,Delhi_Player8
+147,2022,Narendra Modi Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,182,168,Mumbai Indians,13,0,Mumbai_Player1
+148,2022,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,138,157,Royal Challengers Bengaluru,0,6,Royal_Player12
+149,2022,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,166,166,Royal Challengers Bengaluru,0,4,Royal_Player3
+150,2022,M. Chinnaswamy Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,150,154,Kolkata Knight Riders,0,3,Kolkata_Player12
+151,2022,Eden Gardens,Punjab Kings,Chennai Super Kings,Punjab Kings,field,157,101,Punjab Kings,0,6,Punjab_Player4
+152,2022,Narendra Modi Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,175,162,Mumbai Indians,0,4,Mumbai_Player6
+153,2022,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,138,140,Mumbai Indians,0,4,Mumbai_Player5
+154,2022,Rajiv Gandhi Intl Stadium,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,176,195,Mumbai Indians,9,0,Mumbai_Player10
+155,2022,Wankhede Stadium,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,181,152,Royal Challengers Bengaluru,0,4,Royal_Player11
+156,2022,Sawai Mansingh Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,188,149,Sunrisers Hyderabad,0,4,Sunrisers_Player7
+157,2022,Wankhede Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,145,108,Chennai Super Kings,70,0,Chennai_Player3
+158,2022,Arun Jaitley Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,161,147,Mumbai Indians,0,6,Mumbai_Player8
+159,2022,Wankhede Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,165,181,Punjab Kings,0,7,Punjab_Player2
+160,2022,Arun Jaitley Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,224,175,Mumbai Indians,0,3,Mumbai_Player8
+161,2022,Eden Gardens,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,170,163,Sunrisers Hyderabad,0,9,Sunrisers_Player5
+162,2022,M. A. Chidambaram Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,195,161,Sunrisers Hyderabad,29,0,Sunrisers_Player12
+163,2022,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,174,148,Kolkata Knight Riders,4,0,Kolkata_Player3
+164,2022,Rajiv Gandhi Intl Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,210,180,Chennai Super Kings,20,0,Chennai_Player5
+165,2022,Wankhede Stadium,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,197,154,Punjab Kings,0,8,Punjab_Player7
+166,2022,Eden Gardens,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,174,145,Rajasthan Royals,9,0,Rajasthan_Player11
+167,2022,Sawai Mansingh Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,181,148,Kolkata Knight Riders,0,6,Kolkata_Player6
+168,2022,Eden Gardens,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,field,189,158,Mumbai Indians,0,3,Mumbai_Player10
+169,2022,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,172,144,Mumbai Indians,0,4,Mumbai_Player12
+170,2022,Arun Jaitley Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,143,184,Mumbai Indians,0,6,Mumbai_Player6
+171,2022,Sawai Mansingh Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,field,187,186,Chennai Super Kings,4,0,Chennai_Player4
+172,2022,Narendra Modi Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,186,175,Punjab Kings,1,0,Punjab_Player3
+173,2022,Wankhede Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,169,137,Sunrisers Hyderabad,0,4,Sunrisers_Player7
+174,2022,Narendra Modi Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,140,172,Punjab Kings,21,0,Punjab_Player4
+175,2022,Sawai Mansingh Stadium,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,138,116,Mumbai Indians,6,0,Mumbai_Player9
+176,2022,Wankhede Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,120,139,Mumbai Indians,1,0,Mumbai_Player8
+177,2022,Arun Jaitley Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,176,147,Mumbai Indians,0,2,Mumbai_Player5
+178,2022,Arun Jaitley Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,138,171,Chennai Super Kings,0,3,Chennai_Player8
+179,2022,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,131,178,Rajasthan Royals,11,0,Rajasthan_Player5
+180,2022,Rajiv Gandhi Intl Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,field,147,166,Rajasthan Royals,0,4,Rajasthan_Player3
+181,2023,Narendra Modi Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,199,173,Sunrisers Hyderabad,40,0,Sunrisers_Player11
+182,2023,M. A. Chidambaram Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,158,132,Royal Challengers Bengaluru,0,3,Royal_Player3
+183,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,167,129,Sunrisers Hyderabad,0,5,Sunrisers_Player5
+184,2023,M. A. Chidambaram Stadium,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,field,199,184,Punjab Kings,0,4,Punjab_Player6
+185,2023,Eden Gardens,Chennai Super Kings,Punjab Kings,Punjab Kings,field,165,200,Chennai Super Kings,10,0,Chennai_Player7
+186,2023,Sawai Mansingh Stadium,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,165,158,Royal Challengers Bengaluru,0,6,Royal_Player5
+187,2023,Narendra Modi Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,173,131,Punjab Kings,0,7,Punjab_Player6
+188,2023,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,150,154,Sunrisers Hyderabad,0,8,Sunrisers_Player9
+189,2023,Sawai Mansingh Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,156,174,Sunrisers Hyderabad,0,3,Sunrisers_Player8
+190,2023,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,bat,186,155,Chennai Super Kings,0,3,Chennai_Player9
+191,2023,Wankhede Stadium,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,bat,160,172,Rajasthan Royals,1,0,Rajasthan_Player11
+192,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,183,155,Delhi Capitals,0,4,Delhi_Player10
+193,2023,M. Chinnaswamy Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,190,216,Kolkata Knight Riders,15,0,Kolkata_Player3
+194,2023,Wankhede Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,185,151,Chennai Super Kings,0,6,Chennai_Player9
+195,2023,Arun Jaitley Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,142,195,Rajasthan Royals,0,5,Rajasthan_Player12
+196,2023,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,141,170,Kolkata Knight Riders,0,5,Kolkata_Player1
+197,2023,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,bat,181,156,Royal Challengers Bengaluru,11,0,Royal_Player9
+198,2023,Arun Jaitley Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,156,168,Rajasthan Royals,14,0,Rajasthan_Player7
+199,2023,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,bat,178,154,Royal Challengers Bengaluru,8,0,Royal_Player1
+200,2023,Arun Jaitley Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,147,152,Rajasthan Royals,0,6,Rajasthan_Player5
+201,2023,Wankhede Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,142,171,Delhi Capitals,0,7,Delhi_Player11
+202,2023,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,165,185,Kolkata Knight Riders,18,0,Kolkata_Player1
+203,2023,Narendra Modi Stadium,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,field,160,155,Royal Challengers Bengaluru,32,0,Royal_Player4
+204,2023,Eden Gardens,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,179,151,Punjab Kings,20,0,Punjab_Player3
+205,2023,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,202,149,Mumbai Indians,1,0,Mumbai_Player8
+206,2023,Sawai Mansingh Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,174,160,Punjab Kings,1,0,Punjab_Player5
+207,2023,Wankhede Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,127,129,Sunrisers Hyderabad,0,5,Sunrisers_Player3
+208,2023,Wankhede Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,140,202,Punjab Kings,0,2,Punjab_Player8
+209,2023,M. A. Chidambaram Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,159,196,Delhi Capitals,2,0,Delhi_Player5
+210,2023,Eden Gardens,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,bat,152,153,Royal Challengers Bengaluru,0,4,Royal_Player11
+211,2023,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,119,156,Sunrisers Hyderabad,2,0,Sunrisers_Player10
+212,2023,Arun Jaitley Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,164,174,Rajasthan Royals,0,3,Rajasthan_Player7
+213,2023,M. A. Chidambaram Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,148,137,Rajasthan Royals,15,0,Rajasthan_Player1
+214,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,183,192,Sunrisers Hyderabad,4,0,Sunrisers_Player5
+215,2023,Sawai Mansingh Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,213,122,Rajasthan Royals,0,7,Rajasthan_Player6
+216,2023,Eden Gardens,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,174,164,Rajasthan Royals,0,5,Rajasthan_Player10
+217,2023,M. Chinnaswamy Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,191,199,Delhi Capitals,12,0,Delhi_Player12
+218,2023,Rajiv Gandhi Intl Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,144,130,Chennai Super Kings,0,6,Chennai_Player6
+219,2023,Sawai Mansingh Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,213,158,Kolkata Knight Riders,23,0,Kolkata_Player10
+220,2023,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,161,156,Royal Challengers Bengaluru,1,0,Royal_Player8
+221,2023,M. Chinnaswamy Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,203,147,Punjab Kings,0,5,Punjab_Player12
+222,2023,Narendra Modi Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,118,161,Kolkata Knight Riders,0,1,Kolkata_Player10
+223,2023,Sawai Mansingh Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,193,171,Mumbai Indians,0,4,Mumbai_Player9
+224,2023,Eden Gardens,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,130,125,Royal Challengers Bengaluru,0,4,Royal_Player6
+225,2023,M. A. Chidambaram Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,147,154,Mumbai Indians,1,0,Mumbai_Player12
+226,2023,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,169,187,Kolkata Knight Riders,0,5,Kolkata_Player12
+227,2023,M. A. Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,160,118,Chennai Super Kings,22,0,Chennai_Player1
+228,2023,Rajiv Gandhi Intl Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,135,178,Punjab Kings,67,0,Punjab_Player12
+229,2023,Eden Gardens,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,144,104,Sunrisers Hyderabad,12,0,Sunrisers_Player2
+230,2023,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,164,205,Delhi Capitals,0,3,Delhi_Player6
+231,2023,Arun Jaitley Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,174,142,Chennai Super Kings,7,0,Chennai_Player12
+232,2023,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,177,179,Royal Challengers Bengaluru,0,5,Royal_Player5
+233,2023,M. Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,field,149,181,Delhi Capitals,0,4,Delhi_Player11
+234,2023,Eden Gardens,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,168,203,Sunrisers Hyderabad,2,0,Sunrisers_Player5
+235,2023,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,196,144,Rajasthan Royals,0,6,Rajasthan_Player11
+236,2023,Rajiv Gandhi Intl Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,212,126,Chennai Super Kings,0,6,Chennai_Player11
+237,2023,Eden Gardens,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,147,163,Rajasthan Royals,57,0,Rajasthan_Player5
+238,2023,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,185,171,Mumbai Indians,7,0,Mumbai_Player3
+239,2023,M. Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,161,175,Chennai Super Kings,15,0,Chennai_Player9
+240,2023,Eden Gardens,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,field,124,169,Royal Challengers Bengaluru,0,3,Royal_Player6
+241,2024,Arun Jaitley Stadium,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,bat,170,159,Royal Challengers Bengaluru,0,2,Royal_Player11
+242,2024,Sawai Mansingh Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,172,144,Sunrisers Hyderabad,0,6,Sunrisers_Player9
+243,2024,Sawai Mansingh Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,162,175,Sunrisers Hyderabad,3,0,Sunrisers_Player8
+244,2024,M. Chinnaswamy Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,165,164,Delhi Capitals,0,8,Delhi_Player10
+245,2024,Arun Jaitley Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,166,131,Rajasthan Royals,5,0,Rajasthan_Player11
+246,2024,Eden Gardens,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,240,128,Chennai Super Kings,0,3,Chennai_Player3
+247,2024,Arun Jaitley Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,171,118,Punjab Kings,46,0,Punjab_Player10
+248,2024,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,205,170,Mumbai Indians,0,4,Mumbai_Player4
+249,2024,M. Chinnaswamy Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,160,188,Mumbai Indians,12,0,Mumbai_Player2
+250,2024,Sawai Mansingh Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,165,182,Punjab Kings,0,5,Punjab_Player4
+251,2024,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,175,174,Mumbai Indians,0,4,Mumbai_Player5
+252,2024,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,field,146,139,Kolkata Knight Riders,0,6,Kolkata_Player9
+253,2024,Wankhede Stadium,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,136,153,Royal Challengers Bengaluru,32,0,Royal_Player7
+254,2024,M. Chinnaswamy Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,136,144,Chennai Super Kings,17,0,Chennai_Player11
+255,2024,M. Chinnaswamy Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,178,182,Rajasthan Royals,0,6,Rajasthan_Player1
+256,2024,Sawai Mansingh Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,154,181,Kolkata Knight Riders,4,0,Kolkata_Player6
+257,2024,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,205,111,Sunrisers Hyderabad,0,7,Sunrisers_Player4
+258,2024,Narendra Modi Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,90,166,Rajasthan Royals,15,0,Rajasthan_Player8
+259,2024,Arun Jaitley Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,238,111,Kolkata Knight Riders,0,7,Kolkata_Player10
+260,2024,Narendra Modi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,159,153,Delhi Capitals,38,0,Delhi_Player7
+261,2024,Eden Gardens,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,155,132,Punjab Kings,11,0,Punjab_Player12
+262,2024,Rajiv Gandhi Intl Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,154,160,Kolkata Knight Riders,0,5,Kolkata_Player6
+263,2024,Rajiv Gandhi Intl Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,177,152,Mumbai Indians,1,0,Mumbai_Player10
+264,2024,Arun Jaitley Stadium,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,field,123,118,Kolkata Knight Riders,0,3,Kolkata_Player11
+265,2024,Rajiv Gandhi Intl Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,172,138,Kolkata Knight Riders,0,8,Kolkata_Player3
+266,2024,Narendra Modi Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,149,213,Mumbai Indians,14,0,Mumbai_Player11
+267,2024,Wankhede Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,151,128,Rajasthan Royals,0,7,Rajasthan_Player1
+268,2024,M. A. Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,field,200,182,Punjab Kings,0,4,Punjab_Player11
+269,2024,Wankhede Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,217,166,Delhi Capitals,0,7,Delhi_Player3
+270,2024,M. A. Chidambaram Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,191,177,Delhi Capitals,0,3,Delhi_Player10
+271,2024,M. Chinnaswamy Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,118,129,Rajasthan Royals,27,0,Rajasthan_Player8
+272,2024,Narendra Modi Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,170,145,Rajasthan Royals,21,0,Rajasthan_Player8
+273,2024,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,130,214,Kolkata Knight Riders,1,0,Kolkata_Player2
+274,2024,Narendra Modi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,145,153,Delhi Capitals,0,4,Delhi_Player1
+275,2024,Narendra Modi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,184,173,Sunrisers Hyderabad,23,0,Sunrisers_Player3
+276,2024,M. A. Chidambaram Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,158,168,Punjab Kings,35,0,Punjab_Player7
+277,2024,Sawai Mansingh Stadium,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,159,143,Royal Challengers Bengaluru,0,2,Royal_Player6
+278,2024,Wankhede Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,165,176,Punjab Kings,0,3,Punjab_Player4
+279,2024,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,174,119,Chennai Super Kings,0,8,Chennai_Player3
+280,2024,M. A. Chidambaram Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,150,152,Delhi Capitals,0,3,Delhi_Player6
+281,2024,Wankhede Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,143,207,Chennai Super Kings,4,0,Chennai_Player2
+282,2024,Sawai Mansingh Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,183,164,Sunrisers Hyderabad,0,5,Sunrisers_Player5
+283,2024,Wankhede Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,174,175,Delhi Capitals,0,6,Delhi_Player5
+284,2024,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,158,173,Sunrisers Hyderabad,0,5,Sunrisers_Player3
+285,2024,Arun Jaitley Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,field,119,158,Punjab Kings,0,6,Punjab_Player4
+286,2024,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,field,118,180,Royal Challengers Bengaluru,0,2,Royal_Player11
+287,2024,Sawai Mansingh Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,128,192,Chennai Super Kings,9,0,Chennai_Player12
+288,2024,M. A. Chidambaram Stadium,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,154,198,Sunrisers Hyderabad,1,0,Sunrisers_Player3
+289,2024,Eden Gardens,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,136,169,Chennai Super Kings,21,0,Chennai_Player4
+290,2024,Arun Jaitley Stadium,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,bat,172,149,Mumbai Indians,0,2,Mumbai_Player11
+291,2024,Rajiv Gandhi Intl Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,160,137,Delhi Capitals,0,4,Delhi_Player6
+292,2024,Narendra Modi Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,178,120,Delhi Capitals,34,0,Delhi_Player10
+293,2024,Eden Gardens,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,field,157,173,Royal Challengers Bengaluru,0,1,Royal_Player2
+294,2024,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,170,155,Chennai Super Kings,24,0,Chennai_Player6
+295,2024,M. Chinnaswamy Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,164,160,Chennai Super Kings,7,0,Chennai_Player1
+296,2024,M. Chinnaswamy Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,134,182,Rajasthan Royals,0,6,Rajasthan_Player4
+297,2024,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,198,148,Delhi Capitals,26,0,Delhi_Player2
+298,2024,Rajiv Gandhi Intl Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,160,174,Sunrisers Hyderabad,0,1,Sunrisers_Player3
+299,2024,Eden Gardens,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,field,163,148,Royal Challengers Bengaluru,22,0,Royal_Player2
+300,2024,Wankhede Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,132,186,Chennai Super Kings,0,7,Chennai_Player8
