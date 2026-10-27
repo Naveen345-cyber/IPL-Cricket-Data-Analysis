@@ -1,0 +1,102 @@
+{
+  "classification": {
+    "Logistic Regression": {
+      "cv_mean": 0.4916666666666667,
+      "cv_std": 0.021245914639969953,
+      "test_accuracy": 0.5166666666666667,
+      "precision": 0.5333333333333333,
+      "recall": 0.5161290322580645,
+      "f1_score": 0.5245901639344263,
+      "roc_auc": 0.49666295884315914
+    },
+    "Decision Tree": {
+      "cv_mean": 0.4958333333333333,
+      "cv_std": 0.04639803635691687,
+      "test_accuracy": 0.4666666666666667,
+      "precision": 0.48717948717948717,
+      "recall": 0.6129032258064516,
+      "f1_score": 0.5428571428571428,
+      "roc_auc": 0.5094549499443827
+    },
+    "Random Forest": {
+      "cv_mean": 0.4541666666666667,
+      "cv_std": 0.024295632895188754,
+      "test_accuracy": 0.48333333333333334,
+      "precision": 0.5,
+      "recall": 0.4838709677419355,
+      "f1_score": 0.4918032786885246,
+      "roc_auc": 0.4532814238042269
+    },
+    "Gradient Boosting": {
+      "cv_mean": 0.475,
+      "cv_std": 0.04823265376162594,
+      "test_accuracy": 0.5333333333333333,
+      "precision": 0.5555555555555556,
+      "recall": 0.4838709677419355,
+      "f1_score": 0.5172413793103449,
+      "roc_auc": 0.49777530589543934
+    }
+  },
+  "regression": {
+    "Linear Regression": {
+      "cv_rmse": 25.392384130763006,
+      "mae": 22.222968007255982,
+      "rmse": 27.668047293305488,
+      "r2": -0.08353124049056793
+    },
+    "Ridge Regression": {
+      "cv_rmse": 25.116686258373857,
+      "mae": 22.13154530190318,
+      "rmse": 27.590909138467104,
+      "r2": -0.0774979207184543
+    },
+    "Random Forest Regressor": {
+      "cv_rmse": 25.97333646340053,
+      "mae": 23.55232264297155,
+      "rmse": 28.370512452986656,
+      "r2": -0.13924932439088122
+    }
+  },
+  "top_features": [
+    {
+      "feature": "win_pct_diff",
+      "importance": 0.2375698076986509
+    },
+    {
+      "feature": "toss_decision_field",
+      "importance": 0.07034629448337762
+    },
+    {
+      "feature": "toss_winner_is_team1",
+      "importance": 0.06280415896020007
+    },
+    {
+      "feature": "venue_Wankhede Stadium",
+      "importance": 0.039725629470242364
+    },
+    {
+      "feature": "venue_Rajiv Gandhi Intl Stadium",
+      "importance": 0.03959094744931134
+    },
+    {
+      "feature": "team2_Kolkata Knight Riders",
+      "importance": 0.03795697243377058
+    },
+    {
+      "feature": "team2_Royal Challengers Bengaluru",
+      "importance": 0.03536968147273168
+    },
+    {
+      "feature": "venue_Narendra Modi Stadium",
+      "importance": 0.0351330659289265
+    },
+    {
+      "feature": "venue_M. Chinnaswamy Stadium",
+      "importance": 0.03308129479512641
+    },
+    {
+      "feature": "team2_Delhi Capitals",
+      "importance": 0.031179932798076706
+    }
+  ]
+}
